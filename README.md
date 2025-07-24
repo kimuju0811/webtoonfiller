@@ -2,7 +2,7 @@
 
 This repository contains a sample iOS app built with SwiftUI that lets you manage and review webtoons. The app implements the features described in [WEBTOON_APP_SCRIPT.md](WEBTOON_APP_SCRIPT.md).
 
-Open the `WebtoonApp` folder in Xcode to run it on iOS.
+Open `WebtoonApp.xcodeproj` in Xcode and select an iOS simulator or device to run the app.
 
 ### API setup
 
